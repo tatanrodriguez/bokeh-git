@@ -1,0 +1,6 @@
+/* footer */
+
+/* fomrulario  */
+#form div[data-role="form-footer"] {
+    display: none !important;
+}
